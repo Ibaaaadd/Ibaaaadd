@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 ```
   ██╗██████╗  █████╗ ██████╗
@@ -8,9 +8,8 @@
   ██║██████╔╝██║  ██║██████╔╝
   ╚═╝╚═════╝ ╚═╝  ╚═╝╚═════╝
 ```
-  
-### Fullstack Developer
 
+### Fullstack Developer
 Building reliable web applications with clean architecture and practical UX.
 
 <p>
@@ -39,6 +38,10 @@ Building reliable web applications with clean architecture and practical UX.
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ibaaaadd&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibaaaadd&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibaaaadd&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 <div align="center">
