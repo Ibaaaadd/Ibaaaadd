@@ -39,7 +39,12 @@ Building reliable web applications with clean architecture and practical UX.
       <br/>
       <b>Most Used Languages</b>
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ibaaaadd&show_icons=true&hide_border=true&theme=transparent&hide=prs,issues&count_private=true" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <br/>
     </td>
   </tr>
