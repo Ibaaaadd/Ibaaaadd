@@ -24,31 +24,14 @@ Building reliable web applications with clean architecture and practical UX.
 
 ## Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <br/>
-      <b>Languages & Frameworks</b>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=js,ts,php,react,nextjs,laravel&perline=6" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,tailwind,git&perline=6" />
-      <br/>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <br/>
-      <b>Most Used Languages</b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <br/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <b>Languages & Frameworks</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,react,nextjs,laravel&perline=6" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,tailwind,git&perline=6" />
+</div>
+
 ---
 
 ## GitHub Analytics
