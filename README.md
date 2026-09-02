@@ -37,8 +37,8 @@ Building reliable web applications with clean architecture and practical UX.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ibaaaadd&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibaaaadd&layout=compact&theme=graywhite&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ibaaaadd&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibaaaadd&layout=compact&theme=default&hide_border=true" />
 
 <br/>
 
@@ -47,10 +47,11 @@ Building reliable web applications with clean architecture and practical UX.
 </div>
 
 <!--
-Catatan: Kalau kartu di atas juga sempat error 402 (Payment Required),
-itu artinya instance publik vercel-nya lagi kehabisan kuota gratis.
-Solusi paling stabil jangka panjang: deploy instance sendiri.
-Lihat panduan singkat di bawah.
+Catatan: Instance publik github-readme-stats.vercel.app resmi disebut
+"best-effort" oleh pembuatnya dan bisa nge-hang / gagal load karena rate
+limit & traffic tinggi (banyak user pakai server yang sama). Kalau gambar
+sering ilang/broken, solusi paling stabil jangka panjang: deploy instance
+sendiri. Lihat panduan singkat di bawah.
 -->
 
 <div align="center">
