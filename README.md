@@ -37,9 +37,6 @@ Building reliable web applications with clean architecture and practical UX.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ibaaaadd&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibaaaadd&layout=compact&theme=default&hide_border=true" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Ibaaaadd&theme=default&hide_border=true" />
