@@ -56,23 +56,3 @@ sendiri. Lihat panduan singkat di bawah.
 </div>
 
 ---
-
-## Deploy Sendiri (Opsional, kalau badge di atas sering down)
-
-Layanan-layanan di atas (github-readme-stats, streak-stats) di-host gratis
-oleh komunitas, jadi kadang kena limit dan muncul error 402. Kalau ini sering
-terjadi, cara paling stabil adalah deploy instance-mu sendiri ke Vercel
-(gratis, ±5 menit):
-
-1. Fork repo resminya:
-   - Stats card: https://github.com/anuraghazra/github-readme-stats
-   - Streak stats: https://github.com/DenverCoder1/github-readme-streak-stats
-2. Buka https://vercel.com, login pakai akun GitHub-mu.
-3. Klik **Add New → Project**, pilih repo hasil fork tadi, lalu **Deploy**.
-4. Setelah deploy selesai, Vercel akan kasih URL domain sendiri, misalnya
-   `https://github-readme-stats-username.vercel.app`.
-5. Ganti domain di tag `<img src="...">` pada README ini dari
-   `github-readme-stats.vercel.app` menjadi domain barumu.
-
-Dengan begini kuotanya khusus untuk kamu sendiri, jadi jauh lebih jarang kena
-limit dibanding pakai instance publik yang dipakai ribuan orang lain.
